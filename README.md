@@ -1,6 +1,6 @@
 # About Me
 
-- 👋 Hi, I’m @LockedJCE or Jensen
+- 👋 Hello! My name is Jensen
 - 👀 I’m interested in pretty much anything tech related and gaming.
 - 🌱 I’m currently studying to be a full stack developer
 - 💞️ I’m looking to collaborate on anything that will give me more experience and broaden my knowledge base.
